@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **robbert.jeandarme@outlook.com**
 
-- 📄 Know about my experiences www.speelhof.be is a simple website i have made with ASP.NET
 
 <h3 align="left">Languages and Tools:</h3>
 
