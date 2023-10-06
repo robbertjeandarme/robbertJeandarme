@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robbert jeandarme</h1>
-<h3 align="center">Most of my experience is in WPF but i am currently exploring ASP.NET and web development in general.</h3>
 
-- 🌱 I’m currently learning **ASP.NET , Blazor**
-
-- 📫 How to reach me **robbert.jeandarme@outlook.com**
+📫 How to reach me **robbert.jeandarme@outlook.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
